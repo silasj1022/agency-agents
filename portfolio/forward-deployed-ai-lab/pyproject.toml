@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forward-deployed-ai-lab"
+version = "1.0.0"
+description = "Auditable retrieval, policy, human-review, and evaluation workflow using synthetic data."
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Justin Silas" }]
+keywords = ["agentic-ai", "rag", "evaluation", "governance", "human-in-the-loop"]
+
+[tool.setuptools]
+packages = ["src"]
