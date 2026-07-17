@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Upstream attribution:** This repository is a personal mirror of [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents). Justin Silas is not the original author or maintainer of The Agency. Use the upstream repository for canonical source, authorship, releases, issues, and contributions. This mirror is retained only as a reference and is not part of the Justin Silas engineering portfolio.
+
 # 🎭 The Agency: AI Specialists Ready to Transform Your Workflow
 
 > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
